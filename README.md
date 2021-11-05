@@ -8,3 +8,8 @@ Data Preprocessing and Data Mining 2021
 ![grading image](DPDM21.JPG)
 
 
+-------------------------------
+# Table of contents
+
+บทที่ 1 introduction [code](https://github.com/tohnperfect/DPDM2021/blob/main/intro.ipynb)
+
