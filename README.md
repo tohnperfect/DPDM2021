@@ -11,5 +11,12 @@ Data Preprocessing and Data Mining 2021
 -------------------------------
 # Table of contents
 
-บทที่ 1 introduction [code](https://github.com/tohnperfect/DPDM2021/blob/main/intro.ipynb)
+* บทที่ 1 introduction [code](https://github.com/tohnperfect/DPDM2021/blob/main/intro.ipynb)
+* บทที่ 2 Know your data 
+      ประกอบด้วย 3 เรื่องใหญ่ คือ
+      * Basic python [code](https://github.com/tohnperfect/DPDM2021/blob/main/Data101_(Chapter2).ipynb)
+          * Variable ...
+          * Loop ...
+          * Condition ...
+          * Function ...
 
